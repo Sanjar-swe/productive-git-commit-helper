@@ -1,5 +1,3 @@
----
-
 ````markdown
 # 🚀 Productive Git Commit Helper
 
@@ -7,13 +5,14 @@
 
 ---
 
-# 🟢 Start Here — Easiest Way to Use
+## 🟢 Start Here — Easiest Way to Use
 
 💡 **Just copy and paste this in your terminal:**
 
 ```bash
 read -p "📨 Enter commit message: " msg; git add .; git commit -m "$msg"; git push
 ```
+````
 
 🔹 This will:
 
@@ -54,10 +53,10 @@ Perfect for:
 
 ```makefile
 commit:
-    @git add .
-    @read -p "📨 Enter commit message: " msg; \
-    git commit -m "$$msg"; \
-    git push
+	@git add .
+	@read -p "📨 Enter commit message: " msg; \
+	git commit -m "$$msg"; \
+	git push
 ```
 
 Now every time you want to commit:
@@ -110,5 +109,5 @@ Let’s help more developers stay in flow and productive. ⚡
 
 ---
 
-
+Хочешь, я сгенерирую красивую иконку или баннер для этого README на GitHub, чтобы выглядело как у популярных репозиториев?
 ```
