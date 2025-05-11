@@ -109,5 +109,5 @@ Let’s help more developers stay in flow and productive. ⚡
 
 ---
 
-Хочешь, я сгенерирую красивую иконку или баннер для этого README на GitHub, чтобы выглядело как у популярных репозиториев?
+
 ```
